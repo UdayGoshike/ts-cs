@@ -1,5 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 
+
+@font-face {
+  font-family: "Gothic";
+  src: url("/public/Bank\ Gothic\ Light\ Regular.otf") format("woff"),
+       url("/public/Bank\ Gothic\ Light\ Regular.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Gothic", sans-serif;
+}
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;

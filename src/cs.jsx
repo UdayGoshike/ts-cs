@@ -20,6 +20,7 @@ export default function ComingSoon() {
 }
 
 const styles = {
+  
   page: {
     backgroundColor: "#2c2c2c",
     color: "#e6e1c2",
@@ -52,14 +53,14 @@ const styles = {
   },
 
   mainText: {
-    fontFamily: "'Poiret One', sans-serif",    
+    fontFamily: "'Gothic', sans-serif",    
     fontSize: "20px",
     marginBottom: "10px",
     color: "white",
   },
 
   email: {
-    fontFamily: "'Poiret One', sans-serif",     
+    fontFamily: "'Gothic', sans-serif",     
     fontSize: "20px",
     marginBottom: "0px",
     color: "white",
